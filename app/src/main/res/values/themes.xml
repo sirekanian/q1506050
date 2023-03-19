@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.Q1506050" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#ebaeba</item>
+    </style>
+
+</resources>
